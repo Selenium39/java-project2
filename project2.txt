@@ -1,0 +1,14 @@
+1.报错:Description Resource Path Location	 Type web.xml is missing and <failOnMissingWebXml> is set to true:
+https://blog.csdn.net/shursulei/article/details/78820418
+2.jsp页面点击按钮后页面进行了刷新:
+https://blog.csdn.net/jrainbow/article/details/44978843(默认为submit了)
+3.springmvc三种访问静态资源的方法:
+https://blog.csdn.net/u012730299/article/details/51872704
+4.插入数据库后中文出现了乱码:
+检查了数据库的编码，jsp编码，eclipse编码都是utf-8，不知道哪里的编码有问题，但在web.xml中配置了CharacterEncodingFilter后问题解决
+5.使用jquery循环处理删除按钮时，发现匿名函数内访问外部数组总是undefine:
+https://stackoverflow.com/questions/50548399/the-lambda-function-how-to-visit-the-external-array/50548482?noredirect=1#comment88107831_50548482
+5.报错:java.lang.UnsupportedClassVersionError: com/mysql/cj/jdbc/Driver : Unsupported major.minor version 5
+jre版本太低(都jdk7了，还低我也是醉了),不支持mysql，将jre升到1.8解决
+6.投票结果用柱形图显示，使用的工具是JFreeChart:
+https://blog.csdn.net/liutong123987/article/details/78888333
