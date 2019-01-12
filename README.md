@@ -28,3 +28,27 @@ jre版本太低(都jdk7了，还低我也是醉了),不支持mysql，将jre升�
 6.投票结果用柱形图显示，使用的工具是JFreeChart:<br/>
 https://blog.csdn.net/liutong123987/article/details/78888333
 
+
+### 项目截图
+
+#### 首页
+<img src="https://github.com/wantao666/java-project2/blob/master/result-Image/1.png?row=true"/>
+
+#### 发起投票
+<img src="https://github.com/wantao666/java-project2/blob/master/result-Image/2.png?row=true"/>
+
+#### 管理投票
+<img src="https://github.com/wantao666/java-project2/blob/master/result-Image/3.png?row=true"/>
+<img src="https://github.com/wantao666/java-project2/blob/master/result-Image/4.png?row=true"/>
+<img src="https://github.com/wantao666/java-project2/blob/master/result-Image/5.png?row=true"/>
+
+#### 参与投票
+<img src="https://github.com/wantao666/java-project2/blob/master/result-Image/6.png?row=true"/>
+<img src="https://github.com/wantao666/java-project2/blob/master/result-Image/7.png?row=true"/>
+<img src="https://github.com/wantao666/java-project2/blob/master/result-Image/8.png?row=true"/>
+<img src="https://github.com/wantao666/java-project2/blob/master/result-Image/9.png?row=true"/>
+<img src="https://github.com/wantao666/java-project2/blob/master/result-Image/10.png?row=true"/>
+
+#### 查看投票
+<img src="https://github.com/wantao666/java-project2/blob/master/result-Image/12.png?row=true"/>
+<img src="https://github.com/wantao666/java-project2/blob/master/result-Image/11.png?row=true"/>
