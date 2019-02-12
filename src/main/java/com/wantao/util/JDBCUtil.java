@@ -10,7 +10,7 @@ public class JDBCUtil {
 	private final static String driver = "com.mysql.cj.jdbc.Driver";
 	private final static String url = "jdbc:mysql://localhost:3306/db_project2?characterEncoding=utf8&useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC&useSSL=false";
 	private final static String username = "root";
-	private final static String password = "15773272279wt..A";
+	private final static String password = "你自己的数据库密码";
 
 	public static Connection getConnection() {
 		Connection connection = null;
